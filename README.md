@@ -1,2 +1,3 @@
 # hello-world
 IDK...
+Hello my name is Aaron Ye, I; a 14 year old boy with some hobbies. For one thing I like to code! I only learned about C++ and only a little about Java and Command Line. Secound I like Music, Jazz, Pop, orchestra, Dubstep. I also exesice like running, swimming and Biking.
